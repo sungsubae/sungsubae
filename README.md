@@ -7,5 +7,5 @@ I'm interested in software engineering, deep learning and ML/DL model production
 
 ## ✅ Experiences
 - `2016.03 ~ 2024.02` Korea Aerospace University Software and Computer Engineering
-- `2023.06 ~ 2023.08` Tmaxsoft AI Development, Field Trainee
+- `2023.06 ~ 2023.08` Tmaxsoft AI Development, Intern
 - `2022.09 ~ 2023.03` Naver Connect Foundation - Boostcamp AI Tech 4th
